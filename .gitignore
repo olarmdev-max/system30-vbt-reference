@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+system30_output/
+data/
+*.xlsx
+*.csv
+.DS_Store
