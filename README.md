@@ -128,3 +128,19 @@ Main outputs are written under the chosen output directory:
 ## Notes
 
 This repo is intended as a readable reference implementation for debugging and comparison. It is not presented as the original production System30 codebase.
+
+## Migrated docs and reference material
+
+Additional project history and parity artifacts are stored under:
+
+- `docs/progress.md`
+- `docs/TODO.md`
+- `docs/system30_legacy_monorepo_README.md`
+- `docs/system30_postprocess_benchmark.md`
+- `docs/reference/workbook_refresh_2026-03-30/`
+- `docs/reference/refresh_compare_2026-03-30/`
+
+Additional helper scripts included in this repo:
+
+- `yahoo_branch_validator.py`
+- `system30_postprocess_benchmark.py`

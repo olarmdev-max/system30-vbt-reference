@@ -1,0 +1,5 @@
+comparison,old_rows,new_rows,common_tickers,exact_both,same_ticker_different_branch,old_only,new_only,ours_rows,sheet_rows,ours_only,sheet_only
+c4_workbook_old_vs_new,513.0,515.0,510,475,35,38.0,40.0,,,,
+c7_workbook_old_vs_new,443.0,491.0,439,414,25,29.0,77.0,,,,
+c4_ours_vs_refreshed,,,508,303,205,,,1306.0,515.0,1003.0,212.0
+c7_ours_vs_refreshed,,,485,197,288,,,1359.0,491.0,1162.0,294.0

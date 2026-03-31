@@ -5,5 +5,4 @@ __pycache__/
 system30_output/
 data/
 *.xlsx
-*.csv
 .DS_Store
